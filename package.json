@@ -1,0 +1,35 @@
+{
+  "name": "netlify-gulp",
+  "version": "1.0.0",
+  "description": "netlify sample with gulp",
+  "scripts": {
+    "start": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipsnote/netlify-gulp.git"
+  },
+  "author": "matsuo @ TAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tipsnote/netlify-gulp/issues"
+  },
+  "homepage": "https://github.com/tipsnote/netlify-gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
