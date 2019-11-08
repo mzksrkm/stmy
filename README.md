@@ -1,2 +1,2 @@
 # stmy
-$ git push --force
+
